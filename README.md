@@ -43,5 +43,5 @@ Screenshot:https://github.com/Manjiri100/Superstore-Analysis/blob/main/Superstor
 
 
 
-Screenshot-(https://github.com/Manjiri100/Superstore-Analysis/blob/main/Superstore%20Analysis.jpg)
+
 
