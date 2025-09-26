@@ -29,6 +29,7 @@ Cost Control – Discount analysis highlights areas of revenue leakage due to ex
 
 Screenshot:https://github.com/Manjiri100/Superstore-Analysis/blob/main/Superstore%20Analysis.jpg
 
+<img width="1390" height="738" alt="image" src="https://github.com/user-attachments/assets/628ed9af-95c3-485f-bfbd-1dd7326f620a" />
 
 
 
